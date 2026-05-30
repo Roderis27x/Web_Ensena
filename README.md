@@ -1,4 +1,4 @@
-# EN-SEÑA / EN-SEÑA
+# EN-SEÑA | README bilingüe / Bilingual README
 
 ## Español
 
